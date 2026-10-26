@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZreHFpNGZqYmI2dnIxb3drNjlka2JndnF5MXV4ZzY0NGhzYXV2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px" alt="Wave">
-  <h1>¡Hola! Soy Javier Páez 👋</h1>
+  <h1>¡Hola! Soy Javier Páez <img src="https://github.com/The1Poi/The1Poi/blob/main/assets/hello-cat.gif?raw=true" width="40"/></h1>
   <p><strong>Estudiante de Ingeniería de Sistemas | Desarrollador de Software</strong></p>
   <p>Apasionado por el desarrollo backend, algoritmos, programación paralela y crear software útil y bien estructurado.</p>
 </div>
