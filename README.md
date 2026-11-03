@@ -48,14 +48,3 @@
 </div>
 
 ---
-
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustkuTech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustkuTech&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26&height=90&section=footer" width="100%"/>
-</p>
